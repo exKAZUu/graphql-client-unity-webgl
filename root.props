@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project>
+
+	<PropertyGroup>
+		<Authors>Kazunori Sakamoto,Deinok,graphql-dotnet</Authors>
+		<Description>A GraphQL Client for .NET Standard</Description>
+		<GenerateAssemblyInfo>True</GenerateAssemblyInfo>
+		<GenerateDocumentationFile>True</GenerateDocumentationFile>
+		<LangVersion>latest</LangVersion>
+		<NeutralLanguage>en-US</NeutralLanguage>
+		<NoWarn></NoWarn>
+		<PackageIconUrl>https://raw.githubusercontent.com/exkazuu/graphql-client-unity-webgl/master/assets/logo.64x64.png</PackageIconUrl>
+		<PackageLicenseUrl>https://raw.githubusercontent.com/exkazuu/graphql-client-unity-webgl/master/LICENSE.txt</PackageLicenseUrl>
+		<PackageProjectUrl>https://github.com/exkazuu/graphql-client-unity-webgl</PackageProjectUrl>
+		<PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+		<PackageTags>GraphQL</PackageTags>
+		<RepositoryType>git</RepositoryType>
+		<RepositoryUrl>https://github.com/exkazuu/graphql-client-unity-webgl.git</RepositoryUrl>
+		<TreatWarningsAsErrors>True</TreatWarningsAsErrors>
+		<Version>1.0.3</Version>
+		<WarningLevel>4</WarningLevel>
+	</PropertyGroup>
+
+</Project>
